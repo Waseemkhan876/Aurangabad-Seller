@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aurangabad-Seller/static/css/main.cd248a20.css",
+    "main.js": "/Aurangabad-Seller/static/js/main.95664080.js",
+    "index.html": "/Aurangabad-Seller/index.html",
+    "main.cd248a20.css.map": "/Aurangabad-Seller/static/css/main.cd248a20.css.map",
+    "main.95664080.js.map": "/Aurangabad-Seller/static/js/main.95664080.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd248a20.css",
+    "static/js/main.95664080.js"
+  ]
+}
