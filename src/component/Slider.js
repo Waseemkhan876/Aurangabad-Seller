@@ -2,10 +2,10 @@ import React, { useEffect, useRef, useState } from "react";
 import "./Slider.css";
 
 const slides = [
-  "/public/slider/image1.jpeg",
-  "/public/slider/image2.jpeg",
-  "/public/slider/image3.jpeg",
-  "/public/slider/image4.jpeg",
+  "/Aurangabad-Seller/public/slider/image1.jpeg",
+  "/Aurangabad-Seller/public/slider/image2.jpeg",
+  "/Aurangabad-Seller/public/slider/image3.jpeg",
+  "/Aurangabad-Seller/public/slider/image4.jpeg",
 ];
 
 export default function Slider(){
